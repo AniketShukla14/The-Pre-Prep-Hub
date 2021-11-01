@@ -2,7 +2,7 @@
 <li>A website which gives individuals a complete roadmap on how to prepare themselves for their future goals irrespective of
 the field of study and also skills.</li>
 <li> It brings individuals out of confusion of which path to follow by providing students with the best study materials, links to
-best YouTube videos and also rank the websites to get them the best.<li>
+best YouTube videos and also rank the websites to get them the best.</li>
 <br>
 
 <!-- TABLE OF CONTENTS -->
@@ -40,7 +40,7 @@ best YouTube videos and also rank the websites to get them the best.<li>
 <li>It was a personal idea.</li>
 <br>
 <li>The project Backend work is still under process.</li>
-</li><p>for further inquiry about the project or to give any kind of help you can contact</p> <a href:"mailto:aniket14042001@gmail.com">aniket14042001@gmail.com</a></li>
+<li><p>for further inquiry about the project or to give any kind of help you can contact</p> <a href:"mailto:aniket14042001@gmail.com">aniket14042001@gmail.com</a></li>
 <br>
 <br>
 
