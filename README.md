@@ -39,7 +39,7 @@ best YouTube videos and also rank the websites to get them the best.</li>
 ## About The Project
 <li>It was a personal idea.</li>
 <li>The project Backend work is still under process.</li>
-<li>for further inquiry about the project or to give any kind of help you can contact  [aniket14042001@gmail.com](mailto:aniket14042001@gmail.com) </li>
+<p>for further inquiry about the project or to give any kind of help you can contact </p> [aniket14042001@gmail.com](mailto:aniket14042001@gmail.com) 
 <br>
 
 
