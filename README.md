@@ -39,9 +39,9 @@ best YouTube videos and also rank the websites to get them the best.</li>
 ## About The Project
 <li>It was a personal idea.</li>
 <li>The project Backend work is still under process.</li>
-<li>for further inquiry about the project or to give any kind of help you can contact <a href:"mailto:aniket14042001@gmail.com">aniket14042001@gmail.com</a></li>
+<li>for further inquiry about the project or to give any kind of help you can contact </li><a href:"mailto:aniket14042001@gmail.com">aniket14042001@gmail.com</a>
 <br>
-<br>
+
 
 <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
 
