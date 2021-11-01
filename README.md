@@ -32,7 +32,7 @@ best YouTube videos and also rank the websites to get them the best.</li>
   
 ## Objective
 <li>The main objectve of the project was to guide the students to choose the best without any confusion.</li>
-<p align="right">(<a href="# The-Prep-Hub ">back to top</a>)</p>
+<p align="right">(<a href="#The-Prep-Hub ">back to top</a>)</p>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -42,7 +42,7 @@ best YouTube videos and also rank the websites to get them the best.</li>
 <!--<p>for further inquiry about the project or to give any kind of help you can contact </p> <mailto:aniket14042001@gmail.com>[aniket shukla]
 -->
 
-<p align="right">(<a href="# The-Prep-Hub">back to top</a>)</p>
+<p align="right">(<a href="#The-Prep-Hub">back to top</a>)</p>
 
 
 
