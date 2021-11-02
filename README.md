@@ -1,5 +1,5 @@
 # The-Prep-Hub
-<li>A website which gives individuals a complete roadmap on how to prepare themselves for their future goals irrespective of
+<li>A website which gives individuals a complete roadmap on how to prepare themselves for their future goals, irrespective of
 the field of study and also skills.</li>
 <li> It brings individuals out of confusion of which path to follow by providing students with the best study materials, links to
 best YouTube videos and also rank the websites to get them the best.</li>
